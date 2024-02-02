@@ -1,0 +1,2 @@
+kf k0*exp((-a)*n*fc*(E(t)-E0)) "Forward rate constant"
+kb k0*exp((1-a)*n*fc*(E(t)-E0)) "Backward rate costant"

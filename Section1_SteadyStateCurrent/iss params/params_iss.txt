@@ -1,0 +1,8 @@
+n 1 "number of electrons"
+FAR 96485[C/mol] "Faraday's constant"
+el_rad 5[um] "electrode radius"
+Tb 293.15[K] temperature
+D 1e-5[cm^2/s] "diffusion coefficient"
+Cb 5[mM] "bulk concentration"
+RG 50 "ratio between the radius of glass and electrode"
+Iss 4*n*FAR*D*Cb*el_rad "limiting current equation"

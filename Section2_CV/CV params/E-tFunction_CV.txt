@@ -1,0 +1,2 @@
+0 t_exp1 Ein+sr*t
+t_exp1 t_exp Ev-sr*(t-t_exp1)
